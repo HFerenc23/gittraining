@@ -1,4 +1,6 @@
+# Gitignore is for files and folders that you want Git not to version control
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+only_for_local_use.R
